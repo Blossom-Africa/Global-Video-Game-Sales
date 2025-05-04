@@ -1,4 +1,4 @@
-# 🎮 Global Video Game Sales – Exploratory Data Analysis Dashboard
+# 🎮 Global Video Game Sales – Exploratory Data Analysis Dashboard 
 
 This repository hosts an interactive sales dashboard that explores video game market trends based on global sales data. Built using **Microsoft Power BI**, this project offers clear visual insights into the performance of over **16,500 video game titles** released across various platforms and regions.
 
